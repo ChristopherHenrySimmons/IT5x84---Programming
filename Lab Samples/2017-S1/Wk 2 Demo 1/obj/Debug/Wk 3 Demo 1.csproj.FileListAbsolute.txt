@@ -1,0 +1,9 @@
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk 3 Demo 1\bin\Debug\Wk 3 Demo 1.exe.config
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk 3 Demo 1\bin\Debug\Wk 3 Demo 1.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk 3 Demo 1\bin\Debug\Wk 3 Demo 1.pdb
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk 3 Demo 1\obj\Debug\Wk 3 Demo 1.csprojResolveAssemblyReference.cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk 3 Demo 1\obj\Debug\Wk_3_Demo_1.Form1.resources
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk 3 Demo 1\obj\Debug\Wk_3_Demo_1.Properties.Resources.resources
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk 3 Demo 1\obj\Debug\Wk 3 Demo 1.csproj.GenerateResource.Cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk 3 Demo 1\obj\Debug\Wk 3 Demo 1.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk 3 Demo 1\obj\Debug\Wk 3 Demo 1.pdb

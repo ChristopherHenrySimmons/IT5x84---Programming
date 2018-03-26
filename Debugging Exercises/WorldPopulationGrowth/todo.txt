@@ -1,0 +1,6 @@
+World Population
+
+1. Use exception handling.
+2. Move codes into a new class, call it CalculateGrowth.
+3. Change the input for current growth rate to accept percentage (e.g. 1.14%, user enters 1.14 instead of .0114).
+4. Change the output to only display the final total population after a number of year, which is entered by user.

@@ -1,0 +1,12 @@
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File - GUI\bin\Debug\Accessing Text File - GUI.exe.config
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File - GUI\bin\Debug\Accessing Text File - GUI.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File - GUI\bin\Debug\Accessing Text File - GUI.pdb
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File - GUI\obj\Debug\Accessing Text File - GUI.csprojResolveAssemblyReference.cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File - GUI\obj\Debug\Accessing_Text_File___GUI.Form1.resources
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File - GUI\obj\Debug\Accessing_Text_File___GUI.Properties.Resources.resources
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File - GUI\obj\Debug\Accessing Text File - GUI.csproj.GenerateResource.Cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File - GUI\obj\Debug\Accessing Text File - GUI.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File - GUI\obj\Debug\Accessing Text File - GUI.pdb
+C:\Users\21600681\Desktop\BASTARD\Programing\IT5x84 - Programming\Lab Samples\2016-S2\Accessing Text File - GUI\bin\Debug\Accessing Text File - GUI.exe.config
+C:\Users\21600681\Desktop\BASTARD\Programing\IT5x84 - Programming\Lab Samples\2016-S2\Accessing Text File - GUI\obj\Debug\Accessing Text File - GUI.exe
+C:\Users\21600681\Desktop\BASTARD\Programing\IT5x84 - Programming\Lab Samples\2016-S2\Accessing Text File - GUI\obj\Debug\Accessing Text File - GUI.pdb

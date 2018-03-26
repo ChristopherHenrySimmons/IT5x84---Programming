@@ -1,0 +1,13 @@
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\bin\Debug\SampleForm.exe.config
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\bin\Debug\SampleForm.exe.manifest
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\bin\Debug\SampleForm.application
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\bin\Debug\SampleForm.exe
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\bin\Debug\SampleForm.pdb
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\obj\Debug\SampleForm.Form1.resources
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\obj\Debug\SampleForm.Properties.Resources.resources
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\obj\Debug\SampleForm.csproj.GenerateResource.Cache
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\obj\Debug\SampleForm.exe.manifest
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\obj\Debug\SampleForm.application
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\obj\Debug\SampleForm.exe
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleForm\obj\Debug\SampleForm.pdb
+C:\Users\tjhiwa\documents\visual studio 2015\Projects\SampleForm\obj\Debug\SampleForm.csprojResolveAssemblyReference.cache

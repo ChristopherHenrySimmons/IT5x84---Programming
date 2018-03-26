@@ -1,0 +1,9 @@
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 5 - Array - Lab 01\bin\Debug\Week 5 - Array - Lab 01.exe.config
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 5 - Array - Lab 01\bin\Debug\Week 5 - Array - Lab 01.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 5 - Array - Lab 01\bin\Debug\Week 5 - Array - Lab 01.pdb
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 5 - Array - Lab 01\obj\Debug\Week 5 - Array - Lab 01.csprojResolveAssemblyReference.cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 5 - Array - Lab 01\obj\Debug\Week 5 - Array - Lab 01.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 5 - Array - Lab 01\obj\Debug\Week 5 - Array - Lab 01.pdb
+S:\IT5x84 - Programming\Lab Samples\2016-S2\Week 5 - Array - Lab 01\bin\Debug\Week 5 - Array - Lab 01.exe.config
+S:\IT5x84 - Programming\Lab Samples\2016-S2\Week 5 - Array - Lab 01\obj\Debug\Week 5 - Array - Lab 01.exe
+S:\IT5x84 - Programming\Lab Samples\2016-S2\Week 5 - Array - Lab 01\obj\Debug\Week 5 - Array - Lab 01.pdb

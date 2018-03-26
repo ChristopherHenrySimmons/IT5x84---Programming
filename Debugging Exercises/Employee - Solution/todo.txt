@@ -1,0 +1,8 @@
+Employee Test
+
+1. Use exception handling.
+2. Inherit Employee class, call it EmployeeNOW.
+3. Add a method to EmployeeNOW class to add 28% tax to monthly salary.
+4. Change the main codes to use EmployeeNOW class.
+5. Rate of salary increment is to be from user's input.
+6. Move all main codes into a method.

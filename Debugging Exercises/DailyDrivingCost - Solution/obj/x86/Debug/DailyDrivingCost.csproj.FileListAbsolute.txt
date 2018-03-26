@@ -1,0 +1,7 @@
+S:\IT5x84 - Programming\Debugging Exercises\DailyDrivingCost\bin\Debug\DailyDrivingCost.exe
+S:\IT5x84 - Programming\Debugging Exercises\DailyDrivingCost\bin\Debug\DailyDrivingCost.pdb
+S:\IT5x84 - Programming\Debugging Exercises\DailyDrivingCost\obj\x86\Debug\DailyDrivingCost.csprojResolveAssemblyReference.cache
+S:\IT5x84 - Programming\Debugging Exercises\DailyDrivingCost\obj\x86\Debug\DailyDrivingCostForm.Form1.resources
+S:\IT5x84 - Programming\Debugging Exercises\DailyDrivingCost\obj\x86\Debug\DailyDrivingCost.csproj.GenerateResource.Cache
+S:\IT5x84 - Programming\Debugging Exercises\DailyDrivingCost\obj\x86\Debug\DailyDrivingCost.exe
+S:\IT5x84 - Programming\Debugging Exercises\DailyDrivingCost\obj\x86\Debug\DailyDrivingCost.pdb

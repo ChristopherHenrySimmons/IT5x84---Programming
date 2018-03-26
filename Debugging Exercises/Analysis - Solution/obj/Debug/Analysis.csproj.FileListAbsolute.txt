@@ -1,0 +1,5 @@
+S:\IT5x84 - Programming\Debugging Exercises\Analysis - Solution\bin\Debug\Analysis.exe
+S:\IT5x84 - Programming\Debugging Exercises\Analysis - Solution\bin\Debug\Analysis.pdb
+S:\IT5x84 - Programming\Debugging Exercises\Analysis - Solution\obj\Debug\Analysis.csprojResolveAssemblyReference.cache
+S:\IT5x84 - Programming\Debugging Exercises\Analysis - Solution\obj\Debug\Analysis.exe
+S:\IT5x84 - Programming\Debugging Exercises\Analysis - Solution\obj\Debug\Analysis.pdb

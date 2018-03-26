@@ -1,0 +1,5 @@
+S:\IT5x84 - Programming\Debugging Exercises\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+S:\IT5x84 - Programming\Debugging Exercises\Employee\bin\Debug\Employee.exe
+S:\IT5x84 - Programming\Debugging Exercises\Employee\bin\Debug\Employee.pdb
+S:\IT5x84 - Programming\Debugging Exercises\Employee\obj\Debug\Employee.exe
+S:\IT5x84 - Programming\Debugging Exercises\Employee\obj\Debug\Employee.pdb

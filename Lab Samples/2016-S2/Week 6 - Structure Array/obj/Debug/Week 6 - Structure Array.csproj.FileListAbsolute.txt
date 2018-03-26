@@ -1,0 +1,6 @@
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure Array\bin\Debug\Week 6 - Structure Array.exe.config
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure Array\bin\Debug\Week 6 - Structure Array.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure Array\bin\Debug\Week 6 - Structure Array.pdb
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure Array\obj\Debug\Week 6 - Structure Array.csprojResolveAssemblyReference.cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure Array\obj\Debug\Week 6 - Structure Array.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure Array\obj\Debug\Week 6 - Structure Array.pdb

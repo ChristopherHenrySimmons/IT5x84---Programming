@@ -1,0 +1,5 @@
+Heart Rate Test
+
+1. Use exception handling.
+2. Change heart rate information from fixed values to user's input.
+3. The program has a logic error. Find and fix it.

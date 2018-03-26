@@ -1,0 +1,6 @@
+c:\users\tjhiwa\documents\visual studio 2015\Projects\SampleConsole\bin\Debug\SampleConsole.exe.config
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleConsole\bin\Debug\SampleConsole.exe
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleConsole\bin\Debug\SampleConsole.pdb
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleConsole\obj\Debug\SampleConsole.csprojResolveAssemblyReference.cache
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleConsole\obj\Debug\SampleConsole.exe
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\SampleConsole\obj\Debug\SampleConsole.pdb

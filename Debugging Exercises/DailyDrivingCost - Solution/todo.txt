@@ -1,0 +1,7 @@
+Daily Driving Cost
+
+1. Change the program into GUI.
+2. Convert the calculation from miles and gallon to km and litre.
+3. Use exception handling.
+4. Move the input codes into a method.
+5. Move the calculation and output codes into a method.

@@ -1,0 +1,12 @@
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk1\bin\Debug\Wk1.exe.config
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk1\bin\Debug\Wk1.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk1\bin\Debug\Wk1.pdb
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk1\obj\Debug\Wk1.csprojResolveAssemblyReference.cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk1\obj\Debug\Wk1.Main.resources
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk1\obj\Debug\Wk1.Properties.Resources.resources
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk1\obj\Debug\Wk1.csproj.GenerateResource.Cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk1\obj\Debug\Wk1.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Wk1\obj\Debug\Wk1.pdb
+S:\IT5x84 - Programming\Lab Samples\2017-S1\Wk1\bin\Debug\Wk1.exe.config
+S:\IT5x84 - Programming\Lab Samples\2017-S1\Wk1\obj\Debug\Wk1.exe
+S:\IT5x84 - Programming\Lab Samples\2017-S1\Wk1\obj\Debug\Wk1.pdb

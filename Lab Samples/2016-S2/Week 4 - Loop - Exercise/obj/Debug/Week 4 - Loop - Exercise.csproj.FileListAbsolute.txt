@@ -1,0 +1,9 @@
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 4 - Loop - Exercise\bin\Debug\Week 4 - Loop - Exercise.exe.config
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 4 - Loop - Exercise\bin\Debug\Week 4 - Loop - Exercise.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 4 - Loop - Exercise\bin\Debug\Week 4 - Loop - Exercise.pdb
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 4 - Loop - Exercise\obj\Debug\Week 4 - Loop - Exercise.csprojResolveAssemblyReference.cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 4 - Loop - Exercise\obj\Debug\Week_4___Loop___Exercise.Form1.resources
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 4 - Loop - Exercise\obj\Debug\Week_4___Loop___Exercise.Properties.Resources.resources
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 4 - Loop - Exercise\obj\Debug\Week 4 - Loop - Exercise.csproj.GenerateResource.Cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 4 - Loop - Exercise\obj\Debug\Week 4 - Loop - Exercise.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 4 - Loop - Exercise\obj\Debug\Week 4 - Loop - Exercise.pdb

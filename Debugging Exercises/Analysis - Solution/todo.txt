@@ -1,0 +1,7 @@
+Analysis
+
+1. Change WHILE loop to FOR loop.
+2. Instead of using value 10 as loop counter, get the input from the user.
+3. Use exception handling.
+4. Change the output text of "Failed" to "Will keep trying".
+5. Instead of using value 8 as count for passes, use percentage instead. When passes are less than 85%, display "Must try harder next time. No one should be left behind."

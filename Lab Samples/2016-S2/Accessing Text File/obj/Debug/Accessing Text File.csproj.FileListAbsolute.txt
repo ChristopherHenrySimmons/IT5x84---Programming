@@ -1,0 +1,6 @@
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File\bin\Debug\Accessing Text File.exe.config
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File\bin\Debug\Accessing Text File.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File\bin\Debug\Accessing Text File.pdb
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File\obj\Debug\Accessing Text File.csprojResolveAssemblyReference.cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File\obj\Debug\Accessing Text File.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Accessing Text File\obj\Debug\Accessing Text File.pdb

@@ -1,0 +1,6 @@
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure\bin\Debug\Week 6 - Structure.exe.config
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure\bin\Debug\Week 6 - Structure.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure\bin\Debug\Week 6 - Structure.pdb
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure\obj\Debug\Week 6 - Structure.csprojResolveAssemblyReference.cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure\obj\Debug\Week 6 - Structure.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\Week 6 - Structure\obj\Debug\Week 6 - Structure.pdb
